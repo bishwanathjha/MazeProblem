@@ -28,7 +28,7 @@ public class Main {
 			Maze maze = new Maze(FP);
 
 			// Print input maze
-			System.out.println("Iput Maze:");
+			System.out.println("Input Maze:");
 			Maze.Print(maze.GetMaze());
 
 			// Create object of recursive solution and run
